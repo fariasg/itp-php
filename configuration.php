@@ -5,3 +5,4 @@ return [
 		   'password' => 'changeme';
 		   'host' => 'localhost';
 		];
+		
